@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DmitriyP911/test_deploy.git/static/css/main.073c9b0a.css",
+    "main.js": "/DmitriyP911/test_deploy.git/static/js/main.77127ca6.js",
+    "static/js/787.a0dd5101.chunk.js": "/DmitriyP911/test_deploy.git/static/js/787.a0dd5101.chunk.js",
+    "static/media/logo.svg": "/DmitriyP911/test_deploy.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DmitriyP911/test_deploy.git/index.html",
+    "main.073c9b0a.css.map": "/DmitriyP911/test_deploy.git/static/css/main.073c9b0a.css.map",
+    "main.77127ca6.js.map": "/DmitriyP911/test_deploy.git/static/js/main.77127ca6.js.map",
+    "787.a0dd5101.chunk.js.map": "/DmitriyP911/test_deploy.git/static/js/787.a0dd5101.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.77127ca6.js"
+  ]
+}
